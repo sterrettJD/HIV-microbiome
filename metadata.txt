@@ -1,4 +1,4 @@
-SampleID	Race	HIV	AGE	BMI	Hip_to_Waist	Fibroscan	Fibroscan_2	Acetate	Propionate	Isobutyrate	Butyrate	Isovalerate	Valerate	Isocaptoate	Caproate	Treatment
+SampleID	Race	HIV	AGE	BMI	Hip_to_Waist	Fibroscan	Fibroscan_2	Acetate	Propionate	Isobutyrate	Butyrate	Isovalerate	Valerate	Isocaproate	Caproate	Treatment
 H19-01	L	Yes	52	29.97	0.95	225	2.6	9.272	8.345	1.02	4.239	0.879	1.125	0	0.539	1
 H19-02	W	Yes	56	26.91	0.94	229	4.1	7.798	4.912	0.545	3.973	0.739	0.999	0	0.671	1
 H19-03	W	Yes	56	23.48	0.94	215	4.1	6.42	3.591	0.488	2.672	0.657	0.543	0	0.562	1
